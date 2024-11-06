@@ -62,8 +62,8 @@ arima_model(data, 'AQI VALUE', order=(5,1,0))
 ```PY
 
 ### OUTPUT:
+![Screenshot 2024-11-06 092417](https://github.com/user-attachments/assets/145fc3b3-c586-474a-8a35-ae9397a56f9f)
 
-![Screenshot 2024-11-06 092417](https://github.com/user-attachments/assets/41b485a8-0fca-4042-95a8-3d1a46de19dc)
 
 ### RESULT:
 Thus the program run successfully based on the ARIMA model using python.
