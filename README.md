@@ -62,7 +62,8 @@ arima_model(data, 'AQI VALUE', order=(5,1,0))
 ```PY
 
 ### OUTPUT:
-![Screenshot 2024-11-06 092417](https://github.com/user-attachments/assets/145fc3b3-c586-474a-8a35-ae9397a56f9f)
+
+![Screenshot 2024-11-06 092417](https://github.com/user-attachments/assets/c983cdbb-24e2-4010-b9d8-b1d9d1a0ae82)
 
 
 ### RESULT:
