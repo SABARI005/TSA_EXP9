@@ -15,7 +15,7 @@ To Create a project on Time series analysis on  forecasting using ARIMA model in
 6. Auto-fit the ARIMA model
 7. Evaluate model predictions
 ### PROGRAM:
-```PY
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -59,7 +59,7 @@ def arima_model(data, target_variable, order):
 
 # Use the function with specified parameters
 arima_model(data, 'AQI VALUE', order=(5,1,0))
-```PY
+```
 
 ### OUTPUT:
 
